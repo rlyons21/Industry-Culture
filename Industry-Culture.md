@@ -51,6 +51,25 @@ The Other Side of Diversity:
 	hours, or be entering a stricter environment than before. Also, the dynamics of one team will more 
 	than likely vary from other teams, so new employees should be flexible in these aspects. 
 
-	However, a new employee should not have to pretend to be something they are not. You should
-	not have to entirely change your personality or personal beliefs to fit in and be accepted by your co-workers. 
+	However, a new employee should not have to pretend to be something they are not. You should not have 
+	to entirely change your personality or personal beliefs to fit in and be accepted by your co-workers. 
 
+
+Blind Hiring:
+	
+	I do not believe that blind hiring is a sufficient solution to addressing industry biases alone. This 
+	process may help reduce biases during the hiring process, however, minorities will still face many
+	of the same problems after they are hired. The same biases will still exist. This process allows people to
+	still keep their preconceived ideas about different groups of people.
+
+	On the other hand, blind hiring might have the potential to solve diversity issues after all. 
+	If blind hiring allows minorities a better chance at getting a job, then the tech industry should 
+	become more diverse. It would probably take some time, but being exposed to more minorities would allow
+	people to change their ideas about other groups of people. The more exposure to something, allows for greater
+	understanding. 
+
+	Affirmative action makes it easier to bring diversity to a company. It forces hiring managers to
+	find the best candidates that belong to minority groups. However, it does not guarentee you will 
+	be hiring the best person for the job. Blind hiring allows a persons skills to be the primary
+	basis for whether an idividual will get the job. This process should result in the most qualified 
+	candidate getting the job.
